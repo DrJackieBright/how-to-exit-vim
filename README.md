@@ -857,3 +857,21 @@ Based on the C way of @dbalatero
 ```vim
 :let script = ['.intel_syntax noprefix', '.global _start', '_start:', 'mov rdi, ' . getpid()  . '', 'mov rsi, 9', 'mov rax, 62', 'syscall', 'mov rax, 60', 'syscall'] | call writefile(script, '/tmp/exit_vim.S', 'b') | execute "!gcc -nostdlib /tmp/exit_vim.S -o /tmp/exit_vim" | execute "! /tmp/exit_vim"
 ```
+
+## The Gerard Way
+
+Credit: @DrJackieBright
+
+* Take your child to the city
+* See a marching band
+* Ask him to be the savior of the broken, the beaten, and the damned
+* Ask him if he will defeat the VIMs, all the non-beievers, the plans that they have made
+* Tell him that one day you will leave him a phantom, to lead him in the summer, to join the black parade
+* Carry on, carry on
+* Now you are dead and gone
+* You're broken and defeated
+* Your memory will carry on
+  
+
+
+
