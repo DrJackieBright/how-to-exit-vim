@@ -862,15 +862,15 @@ Based on the C way of @dbalatero
 
 Credit: @DrJackieBright
 
-* Take your child to the city
-* See a marching band
-* Ask him to be the savior of the broken, the beaten, and the damned
-* Ask him if he will defeat the VIMs, all the non-beievers, the plans that they have made
-* Tell him that one day you will leave him a phantom, to lead him in the summer, to join the black parade
-* Carry on, carry on
-* Now you are dead and gone
-* You're broken and defeated
-* Your memory will carry on
+1. Take your child to the city
+2. See a marching band
+3. Ask him to be the savior of the broken, the beaten, and the damned
+4. Ask him if he will defeat the VIMs, all the non-beievers, the plans that they have made
+5. Tell him that one day you will leave him a phantom, to lead him in the summer, to join the black parade
+6. Carry on, carry on
+7. Now you are dead and gone
+8. You're broken and defeated
+9. Your memory will carry on
   
 
 
